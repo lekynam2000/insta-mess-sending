@@ -27,3 +27,8 @@ Find the variable vnntufoc:
 ```python
 vnntufoc = #type your Xpath to the person you want to chat with
 ```
+If you change the vnntufoc varible( the variable specify xpath of the user you want to send message to) make sure change the xpath to the text are and the send button
+```python
+textarea_input = ...
+send_button = ...
+```
